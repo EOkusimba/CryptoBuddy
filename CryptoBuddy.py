@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 # 1. Predefined Crypto Data
 # This dictionary stores our cryptocurrency data.
 crypto_db = {
@@ -38,11 +32,6 @@ crypto_db = {
         "sustainability_score": 9.5/10
     }
 }
-
-
-
-# In[ ]:
-
 
 # 2. Chatbot Logic and Advice Rules
 def get_cryptobuddy_response(user_query):
@@ -118,11 +107,6 @@ def get_cryptobuddy_response(user_query):
 
     return "I'm not sure how to answer that. Try asking for 'help' to see what I can do."
 
-
-
-# In[3]:
-
-
 # 3. Test Your Bot - Interactive Session
 def start_chatbot():
     """
@@ -149,8 +133,6 @@ def start_chatbot():
 if __name__ == "__main__":
     start_chatbot()
 
-
-# In[ ]:
 
 
 
