@@ -1,6 +1,6 @@
 # CryptoBuddy
 
-CryptoBuddy is an interactive Python chatbot that provides cryptocurrency advice using a predefined dataset. It responds to various user queries—ranging from sustainability-related questions to trending or long-term growth assessments—and even lists coin details along with their sustainability scores.
+CryptoBuddy is an interactive Python chatbot that provides cryptocurrency advice using a predefined dataset. It responds to various user queries - ranging from sustainability-related questions to trending or long-term growth assessments - and even lists coin details along with their sustainability scores.
 
 ## Features
 
@@ -11,7 +11,7 @@ CryptoBuddy is an interactive Python chatbot that provides cryptocurrency advice
   - **Sustainability**: Recommends the most eco-friendly crypto.
   - **Trending**: Lists coins that are currently trending up.
   - **Long-Term Growth**: Identifies potential coins for long-term growth based on combined criteria.
-  - **Crypto Listing**: When asked "Which crypto do you give advise on", lists all coins along with their sustainability scores.
+  - **Crypto Listing**: When asked "Which crypto do you provide advice on", lists all coins along with their sustainability scores.
 - **General Coin Details**: Provides a detailed "scoop" on a specified cryptocurrency if mentioned in your query.
 
 ## Prerequisites
@@ -41,7 +41,7 @@ Upon launching, you'll be greeted with a welcome message along with instructions
 
 - **Type `help`**: To see a list of sample queries.
 - **Type `quit`**: To exit the program.
-- **Ask specific queries**: Such as "Which crypto should I buy for long-term growth?", "What is the most sustainable coin?", "Which crypto is trending up?", or "Which crypto do you give advise on" to get different responses.
+- **Ask specific queries**: Such as "Which crypto should I buy for long-term growth?", "What is the most sustainable coin?", "Which crypto is trending up?", or "Which crypto do you provide advice on" to get different responses.
 
 ## How It Works
 
@@ -52,7 +52,7 @@ Upon launching, you'll be greeted with a welcome message along with instructions
   - **Sustainable Coin**: Recommends the coin with the highest sustainability score.
   - **Trending Coins**: Displays coins with a rising price trend.
   - **Long-Term Growth**: Computes and suggests the best candidate based on several factors.
-  - **Coin Listing**: When asked "Which crypto do you give advise on", it returns a list of all coins with their sustainability scores.
+  - **Coin Listing**: When asked "Which crypto do you provide advice on", it returns a list of all coins with their sustainability scores.
 
 ## Contributing
 
